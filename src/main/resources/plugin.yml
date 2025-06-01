@@ -1,0 +1,4 @@
+name: Toaster
+version: '1.0-SNAPSHOT'
+main: works.paleomnesis.toaster.Toaster
+api-version: '1.21'
